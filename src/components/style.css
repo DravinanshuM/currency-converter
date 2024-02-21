@@ -1,3 +1,13 @@
 .custom {
     background-color: #dedada;
 }
+
+select.form-select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
+    padding-right: 30px; /* Adjust as needed */
+}
+

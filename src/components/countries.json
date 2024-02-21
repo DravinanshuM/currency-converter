@@ -1,14 +1,6 @@
 {
   "countries": [
     {
-      "name": "Ireland",
-      "currency": "Euro",
-      "currency_code": "EUR",
-      "currency_symbol": "€",
-      "flag_url": "https://flagpedia.net/data/flags/normal/ie.png",
-      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
-    },
-    {
       "name": "Israel",
       "currency": "Israeli New Shekel",
       "currency_code": "ILS",
