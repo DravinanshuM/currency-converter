@@ -1,0 +1,1564 @@
+{
+  "countries": [
+    {
+      "name": "Ireland",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ie.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Israel",
+      "currency": "Israeli New Shekel",
+      "currency_code": "ILS",
+      "currency_symbol": "₪",
+      "flag_url": "https://flagpedia.net/data/flags/normal/il.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Israeli_new_shekel_sign_symbol.svg"
+    },
+    {
+      "name": "India",
+      "currency": "Indian Rupee",
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "flag_url": "https://flagpedia.net/data/flags/normal/in.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/47/Indian_Rupee_symbol.svg"
+    },
+    {
+      "name": "United States",
+      "currency": "United States Dollar",
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/us.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Usdollar.svg"
+    },
+    {
+      "name": "Afghanistan",
+      "currency": "Afghan Afghani",
+      "currency_code": "AFN",
+      "currency_symbol": "؋",
+      "flag_url": "https://flagpedia.net/data/flags/normal/af.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Afghani_symbol.svg"
+    },
+    {
+      "name": "Albania",
+      "currency": "Albanian Lek",
+      "currency_code": "ALL",
+      "currency_symbol": "L",
+      "flag_url": "https://flagpedia.net/data/flags/normal/al.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Albanian_lek_sign_%28vectorised%29.svg"
+    },
+    {
+      "name": "Algeria",
+      "currency": "Algerian Dinar",
+      "currency_code": "DZD",
+      "currency_symbol": "د.ج.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/dz.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/3/39/DZD_symbol.svg"
+    },
+    {
+      "name": "Andorra",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ad.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Angola",
+      "currency": "Angolan Kwanza",
+      "currency_code": "AOA",
+      "currency_symbol": "Kz",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ao.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kwanza_symbol.svg"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "currency": "East Caribbean Dollar",
+      "currency_code": "XCD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ag.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/70/East_Caribbean_Dollar_symbol.svg"
+    },
+    {
+      "name": "Argentina",
+      "currency": "Argentine Peso",
+      "currency_code": "ARS",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ar.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/12/ARS_symbol.svg"
+    },
+    {
+      "name": "Armenia",
+      "currency": "Armenian Dram",
+      "currency_code": "AMD",
+      "currency_symbol": "֏",
+      "flag_url": "https://flagpedia.net/data/flags/normal/am.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Armenian_dram_sign.svg"
+    },
+    {
+      "name": "Australia",
+      "currency": "Australian Dollar",
+      "currency_code": "AUD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/au.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Australian_dollar_symbol.svg"
+    },
+    {
+      "name": "Austria",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/at.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Azerbaijan",
+      "currency": "Azerbaijani Manat",
+      "currency_code": "AZN",
+      "currency_symbol": "₼",
+      "flag_url": "https://flagpedia.net/data/flags/normal/az.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Azerbaijan_manat_sign.svg"
+    },
+    {
+      "name": "Bahamas",
+      "currency": "Bahamian Dollar",
+      "currency_code": "BSD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bs.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bahamian_Dollar_symbol.svg"
+    },
+    {
+      "name": "Bahrain",
+      "currency": "Bahraini Dinar",
+      "currency_code": "BHD",
+      "currency_symbol": ".د.ب",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bh.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bahraini_dinar_symbol.svg"
+    },
+    {
+      "name": "Bangladesh",
+      "currency": "Bangladeshi Taka",
+      "currency_code": "BDT",
+      "currency_symbol": "৳",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bd.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bangladeshi_Taka_sign.svg"
+    },
+    {
+      "name": "Barbados",
+      "currency": "Barbadian Dollar",
+      "currency_code": "BBD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bb.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barbadian_Dollar_symbol.svg"
+    },
+    {
+      "name": "Belarus",
+      "currency": "Belarusian Ruble",
+      "currency_code": "BYN",
+      "currency_symbol": "Br",
+      "flag_url": "https://flagpedia.net/data/flags/normal/by.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/75/Belarusian_ruble_sign.svg"
+    },
+    {
+      "name": "Belgium",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/be.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Belize",
+      "currency": "Belize Dollar",
+      "currency_code": "BZD",
+      "currency_symbol": "BZ$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bz.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Belize_Dollar_symbol.svg"
+    },
+    {
+      "name": "Benin",
+      "currency": "West African CFA Franc",
+      "currency_code": "XOF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bj.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/19/West_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Bhutan",
+      "currency": "Bhutanese Ngultrum",
+      "currency_code": "BTN",
+      "currency_symbol": "Nu.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bt.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/49/Bhutanese_ngultrum_sign.svg"
+    },
+    {
+      "name": "Bolivia",
+      "currency": "Bolivian Boliviano",
+      "currency_code": "BOB",
+      "currency_symbol": "Bs.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bo.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Boliviano_symbol.svg"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "currency": "Bosnia-Herzegovina Convertible Mark",
+      "currency_code": "BAM",
+      "currency_symbol": "КМ",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ba.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bosnia_and_Herzegovina_convertible_mark_symbol.svg"
+    },
+    {
+      "name": "Botswana",
+      "currency": "Botswana Pula",
+      "currency_code": "BWP",
+      "currency_symbol": "P",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bw.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Botswana_Pula_symbol.svg"
+    },
+    {
+      "name": "Brazil",
+      "currency": "Brazilian Real",
+      "currency_code": "BRL",
+      "currency_symbol": "R$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/br.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/70/Brazilian_real_symbol.svg"
+    },
+    {
+      "name": "Brunei",
+      "currency": "Brunei Dollar",
+      "currency_code": "BND",
+      "currency_symbol": "B$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bn.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/17/Brunei_Dollar_symbol.svg"
+    },
+    {
+      "name": "Bulgaria",
+      "currency": "Bulgarian Lev",
+      "currency_code": "BGN",
+      "currency_symbol": "лв",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bg.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bulgarian_lev_symbol.svg"
+    },
+    {
+      "name": "Burkina Faso",
+      "currency": "West African CFA Franc",
+      "currency_code": "XOF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bf.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/19/West_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Burundi",
+      "currency": "Burundian Franc",
+      "currency_code": "BIF",
+      "currency_symbol": "FBu",
+      "flag_url": "https://flagpedia.net/data/flags/normal/bi.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/12/Burundian_franc_symbol.svg"
+    },
+    {
+      "name": "Cabo Verde",
+      "currency": "Cape Verdean Escudo",
+      "currency_code": "CVE",
+      "currency_symbol": "Esc",
+      "flag_url": "https://flagpedia.net/data/flags/normal/cv.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cape_Verdean_escudo_sign.svg"
+    },
+    {
+      "name": "Cambodia",
+      "currency": "Cambodian Riel",
+      "currency_code": "KHR",
+      "currency_symbol": "៛",
+      "flag_url": "https://flagpedia.net/data/flags/normal/kh.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/8/83/Khmer_riel_sign.svg"
+    },
+    {
+      "name": "Cameroon",
+      "currency": "Central African CFA Franc",
+      "currency_code": "XAF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/cm.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Central_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Canada",
+      "currency": "Canadian Dollar",
+      "currency_code": "CAD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ca.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Canadian_Dollar_symbol.svg"
+    },
+    {
+      "name": "Central African Republic",
+      "currency": "Central African CFA Franc",
+      "currency_code": "XAF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/cf.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Central_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Chad",
+      "currency": "Central African CFA Franc",
+      "currency_code": "XAF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/td.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Central_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Chile",
+      "currency": "Chilean Peso",
+      "currency_code": "CLP",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/cl.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/CLP_symbol.svg"
+    },
+    {
+      "name": "China",
+      "currency": "Chinese Yuan",
+      "currency_code": "CNY",
+      "currency_symbol": "¥",
+      "flag_url": "https://flagpedia.net/data/flags/normal/cn.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Yuan_sign.svg"
+    },
+    {
+      "name": "Colombia",
+      "currency": "Colombian Peso",
+      "currency_code": "COP",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/co.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/d/d8/COP_symbol.svg"
+    },
+    {
+      "name": "Comoros",
+      "currency": "Comorian Franc",
+      "currency_code": "KMF",
+      "currency_symbol": "CF",
+      "flag_url": "https://flagpedia.net/data/flags/normal/km.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Comorian_franc_symbol.svg"
+    },
+    {
+      "name": "Congo (Brazzaville)",
+      "currency": "Central African CFA Franc",
+      "currency_code": "XAF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/cg.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Central_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Congo (Kinshasa)",
+      "currency": "Congolese Franc",
+      "currency_code": "CDF",
+      "currency_symbol": "FC",
+      "flag_url": "https://flagpedia.net/data/flags/normal/cd.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/16/Congolese_franc_symbol.svg"
+    },
+    {
+      "name": "Costa Rica",
+      "currency": "Costa Rican Colon",
+      "currency_code": "CRC",
+      "currency_symbol": "₡",
+      "flag_url": "https://flagpedia.net/data/flags/normal/cr.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/8/82/Costa_Rican_col%C3%B3n_symbol.svg"
+    },
+    {
+      "name": "Croatia",
+      "currency": "Croatian Kuna",
+      "currency_code": "HRK",
+      "currency_symbol": "kn",
+      "flag_url": "https://flagpedia.net/data/flags/normal/hr.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/6/67/Croatian_kuna_symbol.svg"
+    },
+    {
+      "name": "Cuba",
+      "currency": "Cuban Peso",
+      "currency_code": "CUP",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/cu.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/5/59/CUP_symbol.svg"
+    },
+    {
+      "name": "Cyprus",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/cy.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Czech Republic",
+      "currency": "Czech Koruna",
+      "currency_code": "CZK",
+      "currency_symbol": "Kč",
+      "flag_url": "https://flagpedia.net/data/flags/normal/cz.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Czech_koruna_symbol.svg"
+    },
+    {
+      "name": "Denmark",
+      "currency": "Danish Krone",
+      "currency_code": "DKK",
+      "currency_symbol": "kr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/dk.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/49/Danish_krone_symbol.svg"
+    },
+    {
+      "name": "Djibouti",
+      "currency": "Djiboutian Franc",
+      "currency_code": "DJF",
+      "currency_symbol": "Fdj",
+      "flag_url": "https://flagpedia.net/data/flags/normal/dj.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Djiboutian_franc_symbol.svg"
+    },
+    {
+      "name": "Dominica",
+      "currency": "East Caribbean Dollar",
+      "currency_code": "XCD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/dm.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/70/East_Caribbean_Dollar_symbol.svg"
+    },
+    {
+      "name": "Dominican Republic",
+      "currency": "Dominican Peso",
+      "currency_code": "DOP",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/do.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/8/85/DOP_symbol.svg"
+    },
+    {
+      "name": "Ecuador",
+      "currency": "United States Dollar",
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ec.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Usdollar.svg"
+    },
+    {
+      "name": "Egypt",
+      "currency": "Egyptian Pound",
+      "currency_code": "EGP",
+      "currency_symbol": "E£",
+      "flag_url": "https://flagpedia.net/data/flags/normal/eg.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Egyptian_pound_symbol.svg"
+    },
+    {
+      "name": "El Salvador",
+      "currency": "United States Dollar",
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sv.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Usdollar.svg"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "currency": "Central African CFA Franc",
+      "currency_code": "XAF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/gq.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Central_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Eritrea",
+      "currency": "Eritrean Nakfa",
+      "currency_code": "ERN",
+      "currency_symbol": "Nfk",
+      "flag_url": "https://flagpedia.net/data/flags/normal/er.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nakfa_sign.svg"
+    },
+    {
+      "name": "Estonia",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ee.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Eswatini",
+      "currency": "Swazi Lilangeni",
+      "currency_code": "SZL",
+      "currency_symbol": "L",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sz.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eswatini_lilangeni_sign.svg"
+    },
+    {
+      "name": "Ethiopia",
+      "currency": "Ethiopian Birr",
+      "currency_code": "ETB",
+      "currency_symbol": "Br",
+      "flag_url": "https://flagpedia.net/data/flags/normal/et.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ethiopian_birr_sign.svg"
+    },
+    {
+      "name": "Fiji",
+      "currency": "Fijian Dollar",
+      "currency_code": "FJD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/fj.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Fijian_Dollar_symbol.svg"
+    },
+    {
+      "name": "Finland",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/fi.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "France",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/fr.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Gabon",
+      "currency": "Central African CFA Franc",
+      "currency_code": "XAF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ga.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Central_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Gambia",
+      "currency": "Gambian Dalasi",
+      "currency_code": "GMD",
+      "currency_symbol": "D",
+      "flag_url": "https://flagpedia.net/data/flags/normal/gm.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gambian_dalasi_sign.svg"
+    },
+    {
+      "name": "Georgia",
+      "currency": "Georgian Lari",
+      "currency_code": "GEL",
+      "currency_symbol": "ლ",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ge.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/77/Georgian_lari_symbol.svg"
+    },
+    {
+      "name": "Germany",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/de.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Ghana",
+      "currency": "Ghanaian Cedi",
+      "currency_code": "GHS",
+      "currency_symbol": "₵",
+      "flag_url": "https://flagpedia.net/data/flags/normal/gh.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ghanaian_cedi_symbol.svg"
+    },
+    {
+      "name": "Greece",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/gr.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Grenada",
+      "currency": "East Caribbean Dollar",
+      "currency_code": "XCD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/gd.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/70/East_Caribbean_Dollar_symbol.svg"
+    },
+    {
+      "name": "Guatemala",
+      "currency": "Guatemalan Quetzal",
+      "currency_code": "GTQ",
+      "currency_symbol": "Q",
+      "flag_url": "https://flagpedia.net/data/flags/normal/gt.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/0/05/Guatemalan_quetzal_symbol.svg"
+    },
+    {
+      "name": "Guinea",
+      "currency": "Guinean Franc",
+      "currency_code": "GNF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/gn.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Guinean_franc_symbol.svg"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "currency": "West African CFA Franc",
+      "currency_code": "XOF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/gw.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/19/West_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Guyana",
+      "currency": "Guyanese Dollar",
+      "currency_code": "GYD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/gy.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Guyanese_Dollar_symbol.svg"
+    },
+    {
+      "name": "Haiti",
+      "currency": "Haitian Gourde",
+      "currency_code": "HTG",
+      "currency_symbol": "G",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ht.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Haitian_gourde_symbol.svg"
+    },
+    {
+      "name": "Honduras",
+      "currency": "Honduran Lempira",
+      "currency_code": "HNL",
+      "currency_symbol": "L",
+      "flag_url": "https://flagpedia.net/data/flags/normal/hn.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/5/50/Honduran_lempira_symbol.svg"
+    },
+    {
+      "name": "Hungary",
+      "currency": "Hungarian Forint",
+      "currency_code": "HUF",
+      "currency_symbol": "Ft",
+      "flag_url": "https://flagpedia.net/data/flags/normal/hu.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hungarian_forint_symbol.svg"
+    },
+    {
+      "name": "Iceland",
+      "currency": "Icelandic Krona",
+      "currency_code": "ISK",
+      "currency_symbol": "kr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/is.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Icelandic_kr%C3%B3na_symbol.svg"
+    },
+    {
+      "name": "Indonesia",
+      "currency": "Indonesian Rupiah",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp",
+      "flag_url": "https://flagpedia.net/data/flags/normal/id.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/d/db/IDR_symbol.svg"
+    },
+    {
+      "name": "Iran",
+      "currency": "Iranian Rial",
+      "currency_code": "IRR",
+      "currency_symbol": "﷼",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ir.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Iranian_rial_sign.svg"
+    },
+    {
+      "name": "Iraq",
+      "currency": "Iraqi Dinar",
+      "currency_code": "IQD",
+      "currency_symbol": "ع.د",
+      "flag_url": "https://flagpedia.net/data/flags/normal/iq.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/17/Iraqi_dinar_sign.svg"
+    },
+    {
+      "name": "Ireland",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ie.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Israel",
+      "currency": "Israeli New Shekel",
+      "currency_code": "ILS",
+      "currency_symbol": "₪",
+      "flag_url": "https://flagpedia.net/data/flags/normal/il.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Israeli_new_shekel_sign_symbol.svg"
+    },
+    {
+      "name": "Italy",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/it.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Jamaica",
+      "currency": "Jamaican Dollar",
+      "currency_code": "JMD",
+      "currency_symbol": "J$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/jm.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jamaican_Dollar_symbol.svg"
+    },
+    {
+      "name": "Japan",
+      "currency": "Japanese Yen",
+      "currency_code": "JPY",
+      "currency_symbol": "¥",
+      "flag_url": "https://flagpedia.net/data/flags/normal/jp.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/5/59/Yen_sign.svg"
+    },
+    {
+      "name": "Jordan",
+      "currency": "Jordanian Dinar",
+      "currency_code": "JOD",
+      "currency_symbol": "د.ا",
+      "flag_url": "https://flagpedia.net/data/flags/normal/jo.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jordanian_dinar_sign.svg"
+    },
+    {
+      "name": "Kazakhstan",
+      "currency": "Kazakhstani Tenge",
+      "currency_code": "KZT",
+      "currency_symbol": "₸",
+      "flag_url": "https://flagpedia.net/data/flags/normal/kz.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/47/Tenge_sign.png"
+    },
+    {
+      "name": "Kenya",
+      "currency": "Kenyan Shilling",
+      "currency_code": "KES",
+      "currency_symbol": "Sh",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ke.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kenyan_shilling_symbol.svg"
+    },
+    {
+      "name": "Kiribati",
+      "currency": "Australian Dollar",
+      "currency_code": "AUD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ki.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/12/Australian_dollar_symbol.svg"
+    },
+    {
+      "name": "Kuwait",
+      "currency": "Kuwaiti Dinar",
+      "currency_code": "KWD",
+      "currency_symbol": "د.ك",
+      "flag_url": "https://flagpedia.net/data/flags/normal/kw.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/9/97/Kuwaiti_dinar_sign.svg"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "currency": "Kyrgyzstani Som",
+      "currency_code": "KGS",
+      "currency_symbol": "лв",
+      "flag_url": "https://flagpedia.net/data/flags/normal/kg.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Som_sign.svg"
+    },
+    {
+      "name": "Laos",
+      "currency": "Lao Kip",
+      "currency_code": "LAK",
+      "currency_symbol": "₭",
+      "flag_url": "https://flagpedia.net/data/flags/normal/la.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lao_kip_sign.svg"
+    },
+    {
+      "name": "Latvia",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/lv.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Lebanon",
+      "currency": "Lebanese Pound",
+      "currency_code": "LBP",
+      "currency_symbol": "ل.ل",
+      "flag_url": "https://flagpedia.net/data/flags/normal/lb.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lebanese_pound_sign.svg"
+    },
+    {
+      "name": "Lesotho",
+      "currency": "Lesotho Loti",
+      "currency_code": "LSL",
+      "currency_symbol": "L",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ls.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lesotho_Loti_sign.svg"
+    },
+    {
+      "name": "Liberia",
+      "currency": "Liberian Dollar",
+      "currency_code": "LRD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/lr.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/3/30/Liberian_Dollar_symbol.svg"
+    },
+    {
+      "name": "Libya",
+      "currency": "Libyan Dinar",
+      "currency_code": "LYD",
+      "currency_symbol": "ل.د",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ly.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/48/Libyan_dinar_sign.svg"
+    },
+    {
+      "name": "Liechtenstein",
+      "currency": "Swiss Franc",
+      "currency_code": "CHF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/li.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/43/Swiss_franc_symbol.svg"
+    },
+    {
+      "name": "Lithuania",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/lt.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Luxembourg",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/lu.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Madagascar",
+      "currency": "Malagasy Ariary",
+      "currency_code": "MGA",
+      "currency_symbol": "Ar",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mg.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/25/Malagasy_ariary_symbol.svg"
+    },
+    {
+      "name": "Malawi",
+      "currency": "Malawian Kwacha",
+      "currency_code": "MWK",
+      "currency_symbol": "MK",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mw.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malawian_kwacha_symbol.svg"
+    },
+    {
+      "name": "Malaysia",
+      "currency": "Malaysian Ringgit",
+      "currency_code": "MYR",
+      "currency_symbol": "RM",
+      "flag_url": "https://flagpedia.net/data/flags/normal/my.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/7a/MYR_Symbol.svg"
+    },
+    {
+      "name": "Maldives",
+      "currency": "Maldivian Rufiyaa",
+      "currency_code": "MVR",
+      "currency_symbol": "ރ.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mv.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/0/07/Maldivian_rufiyaa_symbol.svg"
+    },
+    {
+      "name": "Mali",
+      "currency": "West African CFA Franc",
+      "currency_code": "XOF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ml.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/19/West_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Malta",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mt.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Marshall Islands",
+      "currency": "United States Dollar",
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mh.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Usdollar.svg"
+    },
+    {
+      "name": "Mauritania",
+      "currency": "Mauritanian Ouguiya",
+      "currency_code": "MRU",
+      "currency_symbol": "UM",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mr.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Mauritanian_ouguiya_sign.svg"
+    },
+    {
+      "name": "Mauritius",
+      "currency": "Mauritian Rupee",
+      "currency_code": "MUR",
+      "currency_symbol": "₨",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mu.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Mauritian_Rupee_symbol.svg"
+    },
+    {
+      "name": "Mexico",
+      "currency": "Mexican Peso",
+      "currency_code": "MXN",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mx.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mexican_peso_symbol.svg"
+    },
+    {
+      "name": "Micronesia",
+      "currency": "United States Dollar",
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/fm.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Usdollar.svg"
+    },
+    {
+      "name": "Moldova",
+      "currency": "Moldovan Leu",
+      "currency_code": "MDL",
+      "currency_symbol": "L",
+      "flag_url": "https://flagpedia.net/data/flags/normal/md.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/28/Moldovan_leu_symbol.svg"
+    },
+    {
+      "name": "Monaco",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mc.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Mongolia",
+      "currency": "Mongolian Tugrik",
+      "currency_code": "MNT",
+      "currency_symbol": "₮",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mn.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mongolian_tugrik_symbol.svg"
+    },
+    {
+      "name": "Montenegro",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/me.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Morocco",
+      "currency": "Moroccan Dirham",
+      "currency_code": "MAD",
+      "currency_symbol": "د.م.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ma.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/25/Moroccan_dirham_symbol.svg"
+    },
+    {
+      "name": "Mozambique",
+      "currency": "Mozambican Metical",
+      "currency_code": "MZN",
+      "currency_symbol": "MT",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mz.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/12/Mozambican_metical_symbol.svg"
+    },
+    {
+      "name": "Myanmar",
+      "currency": "Burmese Kyat",
+      "currency_code": "MMK",
+      "currency_symbol": "Ks",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mm.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/28/Burmese_kyat_symbol.svg"
+    },
+    {
+      "name": "Namibia",
+      "currency": "Namibian Dollar",
+      "currency_code": "NAD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/na.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/72/Namibian_dollar_symbol.svg"
+    },
+    {
+      "name": "Nauru",
+      "currency": "Australian Dollar",
+      "currency_code": "AUD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/nr.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/12/Australian_dollar_symbol.svg"
+    },
+    {
+      "name": "Nepal",
+      "currency": "Nepalese Rupee",
+      "currency_code": "NPR",
+      "currency_symbol": "₨",
+      "flag_url": "https://flagpedia.net/data/flags/normal/np.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Nepalese_rupee_symbol.svg"
+    },
+    {
+      "name": "Netherlands",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/nl.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "New Zealand",
+      "currency": "New Zealand Dollar",
+      "currency_code": "NZD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/nz.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/44/NZD_symbol.svg"
+    },
+    {
+      "name": "Nicaragua",
+      "currency": "Nicaraguan Cordoba",
+      "currency_code": "NIO",
+      "currency_symbol": "C$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ni.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nicaraguan_c%C3%B3rdoba_symbol.svg"
+    },
+    {
+      "name": "Niger",
+      "currency": "West African CFA Franc",
+      "currency_code": "XOF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ne.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/19/West_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Nigeria",
+      "currency": "Nigerian Naira",
+      "currency_code": "NGN",
+      "currency_symbol": "₦",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ng.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Nigerian_Naira_symbol.svg"
+    },
+    {
+      "name": "North Korea",
+      "currency": "North Korean Won",
+      "currency_code": "KPW",
+      "currency_symbol": "₩",
+      "flag_url": "https://flagpedia.net/data/flags/normal/kp.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Won_sign.svg"
+    },
+    {
+      "name": "North Macedonia",
+      "currency": "Macedonian Denar",
+      "currency_code": "MKD",
+      "currency_symbol": "ден",
+      "flag_url": "https://flagpedia.net/data/flags/normal/mk.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/46/Macedonian_denar_sign.svg"
+    },
+    {
+      "name": "Norway",
+      "currency": "Norwegian Krone",
+      "currency_code": "NOK",
+      "currency_symbol": "kr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/no.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/d/db/Norwegian_krone_symbol.svg"
+    },
+    {
+      "name": "Oman",
+      "currency": "Omani Rial",
+      "currency_code": "OMR",
+      "currency_symbol": "ر.ع.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/om.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/47/Omani_rial_symbol.svg"
+    },
+    {
+      "name": "Pakistan",
+      "currency": "Pakistani Rupee",
+      "currency_code": "PKR",
+      "currency_symbol": "₨",
+      "flag_url": "https://flagpedia.net/data/flags/normal/pk.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pakistani_Rupee_symbol.svg"
+    },
+    {
+      "name": "Palau",
+      "currency": "United States Dollar",
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/pw.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Usdollar.svg"
+    },
+    {
+      "name": "Panama",
+      "currency": "Panamanian Balboa",
+      "currency_code": "PAB",
+      "currency_symbol": "B/.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/pa.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Panamanian_balboa_symbol.svg"
+    },
+    {
+      "name": "Papua New Guinea",
+      "currency": "Papua New Guinean Kina",
+      "currency_code": "PGK",
+      "currency_symbol": "K",
+      "flag_url": "https://flagpedia.net/data/flags/normal/pg.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Papua_New_Guinean_kina_symbol.svg"
+    },
+    {
+      "name": "Paraguay",
+      "currency": "Paraguayan Guarani",
+      "currency_code": "PYG",
+      "currency_symbol": "₲",
+      "flag_url": "https://flagpedia.net/data/flags/normal/py.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/41/Paraguayan_guaran%C3%AD_symbol.svg"
+    },
+    {
+      "name": "Peru",
+      "currency": "Peruvian Nuevo Sol",
+      "currency_code": "PEN",
+      "currency_symbol": "S/.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/pe.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sol_Peruano_symbol.svg"
+    },
+    {
+      "name": "Philippines",
+      "currency": "Philippine Peso",
+      "currency_code": "PHP",
+      "currency_symbol": "₱",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ph.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/9/99/Philippine_peso_symbol_2017.svg"
+    },
+    {
+      "name": "Poland",
+      "currency": "Polish Zloty",
+      "currency_code": "PLN",
+      "currency_symbol": "zł",
+      "flag_url": "https://flagpedia.net/data/flags/normal/pl.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Polish_Zloty_symbol.svg"
+    },
+    {
+      "name": "Portugal",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/pt.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Qatar",
+      "currency": "Qatari Riyal",
+      "currency_code": "QAR",
+      "currency_symbol": "ر.ق",
+      "flag_url": "https://flagpedia.net/data/flags/normal/qa.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Qatari_riyal_symbol.svg"
+    },
+    {
+      "name": "Romania",
+      "currency": "Romanian Leu",
+      "currency_code": "RON",
+      "currency_symbol": "lei",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ro.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/71/Romanian_leu_symbol.svg"
+    },
+    {
+      "name": "Russia",
+      "currency": "Russian Ruble",
+      "currency_code": "RUB",
+      "currency_symbol": "₽",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ru.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ruble_symbol.svg"
+    },
+    {
+      "name": "Rwanda",
+      "currency": "Rwandan Franc",
+      "currency_code": "RWF",
+      "currency_symbol": "FRw",
+      "flag_url": "https://flagpedia.net/data/flags/normal/rw.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Rwandan_franc_symbol.svg"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "currency": "East Caribbean Dollar",
+      "currency_code": "XCD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/kn.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/70/East_Caribbean_Dollar_symbol.svg"
+    },
+    {
+      "name": "Saint Lucia",
+      "currency": "East Caribbean Dollar",
+      "currency_code": "XCD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/lc.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/70/East_Caribbean_Dollar_symbol.svg"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "currency": "East Caribbean Dollar",
+      "currency_code": "XCD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/vc.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/70/East_Caribbean_Dollar_symbol.svg"
+    },
+    {
+      "name": "Samoa",
+      "currency": "Samoan Tala",
+      "currency_code": "WST",
+      "currency_symbol": "T",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ws.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/8/83/Samoan_tala_symbol.svg"
+    },
+    {
+      "name": "San Marino",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sm.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "currency": "Sao Tome and Principe Dobra",
+      "currency_code": "STN",
+      "currency_symbol": "Db",
+      "flag_url": "https://flagpedia.net/data/flags/normal/st.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/49/Sao_Tome_and_Principe_dobra_symbol.svg"
+    },
+    {
+      "name": "Saudi Arabia",
+      "currency": "Saudi Riyal",
+      "currency_code": "SAR",
+      "currency_symbol": "ر.س",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sa.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Saudi_riyal_symbol.svg"
+    },
+    {
+      "name": "Senegal",
+      "currency": "West African CFA Franc",
+      "currency_code": "XOF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sn.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/19/West_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Serbia",
+      "currency": "Serbian Dinar",
+      "currency_code": "RSD",
+      "currency_symbol": "дин.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/rs.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/3/38/Serbian_dinar_symbol.svg"
+    },
+    {
+      "name": "Seychelles",
+      "currency": "Seychellois Rupee",
+      "currency_code": "SCR",
+      "currency_symbol": "₨",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sc.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Seychellois_rupee_symbol.svg"
+    },
+    {
+      "name": "Sierra Leone",
+      "currency": "Sierra Leonean Leone",
+      "currency_code": "SLL",
+      "currency_symbol": "Le",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sl.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sierra_Leonean_leone_symbol.svg"
+    },
+    {
+      "name": "Singapore",
+      "currency": "Singapore Dollar",
+      "currency_code": "SGD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sg.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/73/SGD_Symbol.svg"
+    },
+    {
+      "name": "Slovakia",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sk.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Slovenia",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/si.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Solomon Islands",
+      "currency": "Solomon Islands Dollar",
+      "currency_code": "SBD",
+      "currency_symbol": "SI$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sb.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/11/Solomon_Islands_dollar_symbol.svg"
+    },
+    {
+      "name": "Somalia",
+      "currency": "Somali Shilling",
+      "currency_code": "SOS",
+      "currency_symbol": "Sh.So.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/so.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Somali_shilling_symbol.svg"
+    },
+    {
+      "name": "South Africa",
+      "currency": "South African Rand",
+      "currency_code": "ZAR",
+      "currency_symbol": "R",
+      "flag_url": "https://flagpedia.net/data/flags/normal/za.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/e/e4/South_African_rand_symbol.svg"
+    },
+    {
+      "name": "South Korea",
+      "currency": "South Korean Won",
+      "currency_code": "KRW",
+      "currency_symbol": "₩",
+      "flag_url": "https://flagpedia.net/data/flags/normal/kr.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Won_sign.svg"
+    },
+    {
+      "name": "South Sudan",
+      "currency": "South Sudanese Pound",
+      "currency_code": "SSP",
+      "currency_symbol": "£",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ss.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/c/cf/South_Sudanese_pound_symbol.svg"
+    },
+    {
+      "name": "Spain",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/es.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Sri Lanka",
+      "currency": "Sri Lankan Rupee",
+      "currency_code": "LKR",
+      "currency_symbol": "Rs",
+      "flag_url": "https://flagpedia.net/data/flags/normal/lk.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sri_Lankan_rupee_symbol.svg"
+    },
+    {
+      "name": "Sudan",
+      "currency": "Sudanese Pound",
+      "currency_code": "SDG",
+      "currency_symbol": "ج.س.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sd.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Sudanese_pound_symbol.svg"
+    },
+    {
+      "name": "Suriname",
+      "currency": "Surinamese Dollar",
+      "currency_code": "SRD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sr.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/d/df/Surinamese_dollar_symbol.svg"
+    },
+    {
+      "name": "Sweden",
+      "currency": "Swedish Krona",
+      "currency_code": "SEK",
+      "currency_symbol": "kr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/se.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Swedish_krona_symbol.svg"
+    },
+    {
+      "name": "Switzerland",
+      "currency": "Swiss Franc",
+      "currency_code": "CHF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ch.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/43/Swiss_franc_symbol.svg"
+    },
+    {
+      "name": "Syria",
+      "currency": "Syrian Pound",
+      "currency_code": "SYP",
+      "currency_symbol": "£S",
+      "flag_url": "https://flagpedia.net/data/flags/normal/sy.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Syrian_pound_symbol.svg"
+    },
+    {
+      "name": "Taiwan",
+      "currency": "New Taiwan Dollar",
+      "currency_code": "TWD",
+      "currency_symbol": "NT$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/tw.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/47/New_Taiwan_dollar_symbol.svg"
+    },
+    {
+      "name": "Tajikistan",
+      "currency": "Tajikistani Somoni",
+      "currency_code": "TJS",
+      "currency_symbol": "ЅМ",
+      "flag_url": "https://flagpedia.net/data/flags/normal/tj.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/45/Somoni_symbol.svg"
+    },
+    {
+      "name": "Tanzania",
+      "currency": "Tanzanian Shilling",
+      "currency_code": "TZS",
+      "currency_symbol": "Sh",
+      "flag_url": "https://flagpedia.net/data/flags/normal/tz.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tanzanian_shilling_symbol.svg"
+    },
+    {
+      "name": "Thailand",
+      "currency": "Thai Baht",
+      "currency_code": "THB",
+      "currency_symbol": "฿",
+      "flag_url": "https://flagpedia.net/data/flags/normal/th.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/3/38/Baht_symbol.svg"
+    },
+    {
+      "name": "Togo",
+      "currency": "West African CFA Franc",
+      "currency_code": "XOF",
+      "currency_symbol": "Fr",
+      "flag_url": "https://flagpedia.net/data/flags/normal/tg.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/19/West_African_CFA_franc_symbol.svg"
+    },
+    {
+      "name": "Tonga",
+      "currency": "Tongan Pa'anga",
+      "currency_code": "TOP",
+      "currency_symbol": "T$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/to.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tongan_paanga_symbol.svg"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "currency": "Trinidad and Tobago Dollar",
+      "currency_code": "TTD",
+      "currency_symbol": "TT$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/tt.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/5/56/Trinidad_and_Tobago_dollar_symbol.svg"
+    },
+    {
+      "name": "Tunisia",
+      "currency": "Tunisian Dinar",
+      "currency_code": "TND",
+      "currency_symbol": "د.ت",
+      "flag_url": "https://flagpedia.net/data/flags/normal/tn.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/6/61/Tunisian_dinar_symbol.svg"
+    },
+    {
+      "name": "Turkey",
+      "currency": "Turkish Lira",
+      "currency_code": "TRY",
+      "currency_symbol": "₺",
+      "flag_url": "https://flagpedia.net/data/flags/normal/tr.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/9/99/Turkish_lira_symbol_black.svg"
+    },
+    {
+      "name": "Turkmenistan",
+      "currency": "Turkmenistani Manat",
+      "currency_code": "TMT",
+      "currency_symbol": "T",
+      "flag_url": "https://flagpedia.net/data/flags/normal/tm.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Manat_symbol.svg"
+    },
+    {
+      "name": "Tuvalu",
+      "currency": "Australian Dollar",
+      "currency_code": "AUD",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/tv.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/1/12/Australian_dollar_symbol.svg"
+    },
+    {
+      "name": "Uganda",
+      "currency": "Ugandan Shilling",
+      "currency_code": "UGX",
+      "currency_symbol": "USh",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ug.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ugandan_shilling_symbol.svg"
+    },
+    {
+      "name": "Ukraine",
+      "currency": "Ukrainian Hryvnia",
+      "currency_code": "UAH",
+      "currency_symbol": "₴",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ua.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/5/53/Hryvnia_symbol.svg"
+    },
+    {
+      "name": "United Arab Emirates",
+      "currency": "United Arab Emirates Dirham",
+      "currency_code": "AED",
+      "currency_symbol": "د.إ",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ae.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/6/67/United_Arab_Emirates_dirham_symbol.svg"
+    },
+    {
+      "name": "United Kingdom",
+      "currency": "British Pound Sterling",
+      "currency_code": "GBP",
+      "currency_symbol": "£",
+      "flag_url": "https://flagpedia.net/data/flags/normal/gb.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Pound_sterling_symbol.svg"
+    },
+    {
+      "name": "Uruguay",
+      "currency": "Uruguayan Peso",
+      "currency_code": "UYU",
+      "currency_symbol": "$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/uy.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/9/91/Uruguayan_peso_symbol.svg"
+    },
+    {
+      "name": "Uzbekistan",
+      "currency": "Uzbekistani Som",
+      "currency_code": "UZS",
+      "currency_symbol": "soʻm",
+      "flag_url": "https://flagpedia.net/data/flags/normal/uz.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/9/92/Uzbekistani_Som_symbol.svg"
+    },
+    {
+      "name": "Vanuatu",
+      "currency": "Vanuatu Vatu",
+      "currency_code": "VUV",
+      "currency_symbol": "VT",
+      "flag_url": "https://flagpedia.net/data/flags/normal/vu.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/3/37/Vanuatu_vatu_symbol.svg"
+    },
+    {
+      "name": "Vatican City",
+      "currency": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "flag_url": "https://flagpedia.net/data/flags/normal/va.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/2/26/Euro_symbol_gold.png"
+    },
+    {
+      "name": "Venezuela",
+      "currency": "Venezuelan Bolivar",
+      "currency_code": "VES",
+      "currency_symbol": "Bs.S.",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ve.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Venezuelan_bol%C3%ADvar_symbol.svg"
+    },
+    {
+      "name": "Vietnam",
+      "currency": "Vietnamese Dong",
+      "currency_code": "VND",
+      "currency_symbol": "₫",
+      "flag_url": "https://flagpedia.net/data/flags/normal/vn.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/9/97/Vietnamese_dong_symbol.svg"
+    },
+    {
+      "name": "Yemen",
+      "currency": "Yemeni Rial",
+      "currency_code": "YER",
+      "currency_symbol": "﷼",
+      "flag_url": "https://flagpedia.net/data/flags/normal/ye.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/4/42/Yemeni_rial_symbol.svg"
+    },
+    {
+      "name": "Zambia",
+      "currency": "Zambian Kwacha",
+      "currency_code": "ZMW",
+      "currency_symbol": "ZK",
+      "flag_url": "https://flagpedia.net/data/flags/normal/zm.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Zambian_kwacha_symbol.svg"
+    },
+    {
+      "name": "Zimbabwe",
+      "currency": "Zimbabwean Dollar",
+      "currency_code": "ZWL",
+      "currency_symbol": "Z$",
+      "flag_url": "https://flagpedia.net/data/flags/normal/zw.png",
+      "currency_symbol_icon": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Zimbabwean_dollar_symbol.svg"
+    }
+  ]
+}
